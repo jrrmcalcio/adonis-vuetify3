@@ -7,13 +7,16 @@
 	// words - list of words to be always considered correct
 	"words": [
 		"eidellev",
+		"fontface",
 		"githubusercontent",
 		"mkdirp",
 		"Parens",
+		"roboto",
 		"streetsidesoftware",
 		"tsmerge",
 		"visualstudio",
 		"vsmarketplacebadge",
+		"webfontloader",
 		"youch"
 	],
 	// flagWords - list of words to be always considered incorrect
