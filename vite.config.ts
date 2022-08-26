@@ -6,7 +6,7 @@ import vuetify from 'vite-plugin-vuetify'
 export default defineConfig({
 	plugins: [
 		vue(),
-		adonis({ input: 'resources/frontend/entrypoints/main.js' }),
 		vuetify({ autoImport: true }),
+		adonis({ input: 'resources/frontend/entrypoints/main.js' }),
 	],
 })

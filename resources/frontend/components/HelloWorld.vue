@@ -6,7 +6,7 @@
 			</v-col>
 
 			<v-col class="mb-4">
-				<h1 class="display-2 font-weight-bold mb-3">Welcome to Vuetify 3 Beta</h1>
+				<h1 class="display-2 font-weight-bold mb-3 text-blue-400">Welcome to Vuetify 3 Beta</h1>
 
 				<h4>Vite Preview</h4>
 
@@ -34,7 +34,7 @@
 			</v-col>
 
 			<v-col class="mb-5" cols="12">
-				<h2 class="headline font-weight-bold mb-5">Important Links</h2>
+				<h2 class="headline font-weight-bold mb-5 text-blue-400">Important Links</h2>
 
 				<v-row justify="center">
 					<a
@@ -50,7 +50,7 @@
 			</v-col>
 
 			<v-col class="mb-5" cols="12">
-				<h2 class="headline font-weight-bold mb-5">Ecosystem</h2>
+				<h2 class="headline font-weight-bold mb-5 text-blue-400">Ecosystem</h2>
 
 				<v-row justify="center">
 					<a
