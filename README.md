@@ -1,4 +1,4 @@
-# Adonis / Vite / Inertia / Vue 3 Boilerplate
+# Adonis / Vite / Inertia / Vuetify 3 / TailwindCSS Boilerplate
 
 Based on the example in [91codes' adonis-vite repo](https://github.com/91codes/adonis-vite), this is a boilerplate setup for using AdonisJS as a backend, with Vue as a frontend using Inertia to remove the need for an API, along with Vite for compiling resources and hot reloading.
 
@@ -6,12 +6,14 @@ This project serves as a starter project for building web apps with [Adonis](htt
 
 I am indebted to [Adocasts](https://adocasts.com/lessons/adding-inertiajs-to-a-new-adonisjs-project) for their tutorial which I used to set up this boilerplate, as well as [91codes](https://github.com/91codes) Adonis-Vite setup and exampl. If you want to learn Adonis, then you should check out [Adocasts](https://adocasts.com/lessons/adding-inertiajs-to-a-new-adonisjs-project).
 
+This project is based on https://github.com/MichaelNZ85/AdonisVueViteInertia so thank you @MichaelNZ85 :).
+
 ### How to use
 
 1. Clone this repository
 
 ```
-git clone git@github.com:MichaelNZ85/AdonisInertiaVue3Boilerplate.git my-cool-project
+git clone https://github.com/jrrmcalcio/adonis-vuetify3.git
 ```
 
 2. Install dependencies
